@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Gunİlerletme&Sequence_1",
+        "GetTextSehirDogrulama&Sequence_2",
+        "sehir&Sequence_2",
+        "dtTable&Sequence_1",
+        "dtTbale&Sequence_1",
+        "SehirSecimi&Sequence_1",
+        "GetTextEnYuksekSicaklik&Sequence_4",
+        "GetTextTarih&Sequence_4",
+        "GetTextEnDusukSicaklik&Sequence_4",
+        "counter&Sequence_3",
+        "GetTextSehirAdi&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
